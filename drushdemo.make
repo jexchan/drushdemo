@@ -55,9 +55,9 @@ projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
 
 ; add custom profile
-projects[jack_standaard][type] = "profile"
-projects[jack_standaard][download][type] = "git"
-projects[jack_standaard][download][url] = "git://github.com/jexchan/drushdemo.git"
+projects[drushdemo][type] = "profile"
+projects[drushdemo][download][type] = "git"
+projects[drushdemo][download][url] = "git://github.com/jexchan/drushdemo.git"
 
 ; Themes
 ; --------
